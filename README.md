@@ -23,7 +23,7 @@ There are so many platforms out there that could help you find a remote job. The
 
 ## Contirubutors
 <a href="https://github.com/Hamsa-Labs/remote-jobs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Hamsa-Labs/remote-jobs&columns=24&max=1000"/>
+  <img src="https://contrib.rocks/image?repo=Hamsa-Labs/remote-jobs" />
 </a>
 
 
