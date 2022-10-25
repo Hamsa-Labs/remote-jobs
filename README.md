@@ -13,6 +13,8 @@ Working remotely is a lot different than working in an office setting. You've to
 - [Platforms](./PLATFORMS.md)
 
 ## Contirubutors
+If you know any remote job opportunities that might help others, feel free to contribute to this repository. You need to fork the repo and then create a pull request to the base repo. You PR will be reviewd and merged.
+
 <a href="https://github.com/Hamsa-Labs/remote-jobs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hamsa-Labs/remote-jobs" />
 </a>
