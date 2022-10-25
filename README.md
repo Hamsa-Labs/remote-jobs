@@ -1,5 +1,5 @@
 # Remote Job Opportunities
-A curated list of platforms and opportunities to do remote jobs for developers. Ever since the covid pandemic, remote working has become ever so popular. This means jobs are now becoming available to anyone who has the right skills. There are a number of benefits that you can get working remotely, including:
+A curated list of platforms and opportunities to do remote jobs for Developers, Designers and Technical Writers. Ever since the covid pandemic, remote working has become ever so popular. This means jobs are now becoming available to anyone who has the right skills. There are a number of benefits that you can get working remotely, including:
 - **Better pay**: the compensation you get is usually much better than what the local market has to offer.
 - **No more commute**: you no longer have to waste hours of your precious time going to and from work everyday.
 - **Career growth**: you get to work on products with people that have great experience and you'll get international exposure.
