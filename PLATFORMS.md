@@ -12,3 +12,15 @@ No. There are no coding challenges on this platform.
 - Wait until you get a message from a company that is interested with your profile.
 - If all goes well, you sign a contact with RemoteMore and then start your remote job officially.
 
+### [Turing](https://www.turing.com/jobs)
+#### Does it have tests?
+Yes. There two sets of tests. One is an algorithm challenge and the other is tests that are based on your tech-stack. They may recommend you to take additional tests to increase your chances of getting hired.
+#### Steps to getting hired
+- First sign up on the platform and create your profile by showcasing your expertise.
+- Take the tests.
+- After passing the tests and complete, you will be asked to schedule a non-technical interview. The interview is to get know you better,and discuss compensation.
+- Next step is to wait until they match you with a company.
+- After you get matched, you will be asked to schedule an interview or complete a task ( this depends on the company ). 
+- If everything works your way, you will sign a contract and start your trial period of two-weeks. 
+- Once your trial is a success, you will be part of the Turing family.
+
